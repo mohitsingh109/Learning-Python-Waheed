@@ -1,0 +1,2 @@
+# Python Learning Path [link](https://docs.google.com/document/d/1RbDMiRJXJR_ZCrZCnwfKEVKXbXZRjuHS8aTClRAMGVA/edit?tab=t.0)
+# Draw.io [link](https://app.diagrams.net/#G12j5CEGsLFFNPRDsKk3Xe4dfaSK-CsZr9#%7B%22pageId%22%3A%222jflK-wbPpf0nM1zGxNS%22%7D)
