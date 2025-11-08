@@ -1,24 +1,28 @@
 # for -> used for looping over collection(list, dict, tuple, set) of data like list of employee
 
+# 0, <10, 1
 # for i in range(10): # range is a function in python that start from 0 and end at < 10
 #     print(i)
 #
 # print("===================")
 #
+# 5, <10, 1
 # for i in range(5, 10): # range is a function in python that start from 5 and end at < 10
 #     print(i)
 #
 # print("===================")
 #
+# 1, <10, 2
 # for i in range(1, 10, 2): # range is a function in python that start from 1 and end at < 10 and step up by 2
 #     print(i)
 #
-# # for e in employees:
-# #     e.add_bonus(5$)
+# for e in employees:
+#    e.add_bonus(5$)
 #
 
-# number = int(input("Enter number:")) # 10
+# number = int(input("Enter number:")) # 9
 #
+# # 1, < 11, 1
 # for i in range(1, 11): # i = 2
 #     print(f'{number} X {i} = {number * i}') # 10 X 2 = 20
 
@@ -53,5 +57,6 @@ while True:
     if yes_no == "no":
         break
 
+print("I am outside the loop")
 
 
